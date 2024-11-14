@@ -8,9 +8,11 @@
 ![code_needed](https://github.com/user-attachments/assets/34fc3d73-3a7c-4615-a930-afa50cff104c)
 
 <b>4.</b> Copy the following link:
+
 ![code_url](https://github.com/user-attachments/assets/1bee245c-c83d-4bf2-9aa9-05d761312ade)
 
 <b>5.</b> Paste it into the prompt:
+
 ![confirm_code](https://github.com/user-attachments/assets/b24a99f1-e5e5-4b5a-9703-92508a45ca54)
 
 Setup is now complete
