@@ -7,7 +7,7 @@
 <b>3.</b> After allowing the program to edit your outlook calandar, wait until the page redirects to a localhost address:
 ![updated_code_needed](https://github.com/user-attachments/assets/7dff732c-8b8c-4345-8ede-37aaff9faf37)
 
-<b>4.</b> Copy the following link:
+<b>4.</b> Copy the following code within your URL:
 
 ![updated_confirm_code](https://github.com/user-attachments/assets/b57f67fb-8ceb-4ff5-ad8d-f790a27a5a68)
 
