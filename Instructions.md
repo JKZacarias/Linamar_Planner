@@ -9,10 +9,11 @@
 
 <b>4.</b> Copy the following link:
 
-![code_url](https://github.com/user-attachments/assets/1bee245c-c83d-4bf2-9aa9-05d761312ade)
+![updated_code_needed](https://github.com/user-attachments/assets/7dff732c-8b8c-4345-8ede-37aaff9faf37)
 
 <b>5.</b> Paste it into the prompt:
 
-![confirm_code](https://github.com/user-attachments/assets/b24a99f1-e5e5-4b5a-9703-92508a45ca54)
+![updated_confirm_code](https://github.com/user-attachments/assets/b57f67fb-8ceb-4ff5-ad8d-f790a27a5a68)
+
 
 Setup is now complete
