@@ -1,10 +1,8 @@
 import tkinter as tk
-from PIL import ImageTk, Image
 from decimal import Decimal
 import csv
 import smtplib
 import os.path
-from os.path import isfile
 from os.path import basename
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -21,16 +19,13 @@ from datetime import date
 import datetime
 from time import localtime, strftime
 import threading
-from ttkbootstrap.icons import Icon
 import pyglet
-import pprint
 from tkinter import ttk
 import os
 from dotenv import load_dotenv
 import httpx
 import webbrowser
 import msal
-from dotenv import load_dotenv
 from datetime import timedelta
 
 def resource_path(relative_path):
