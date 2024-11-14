@@ -1,3 +1,7 @@
+**Python / SQL Project**
+
+View Instructions for proper setup: [Here](Instructions.md)
+
 - Home Page
 ![LinamarHome](https://github.com/user-attachments/assets/c5b2415c-1a60-4180-84cf-f0f536459756)
 
