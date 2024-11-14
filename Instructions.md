@@ -4,7 +4,7 @@
 <b>2.</b> Within your web browser, you will be prompted to login to your outlook account in order to connect calandar functionality.
 - ![calendar_permissions](https://github.com/user-attachments/assets/30e00668-d844-4e91-b89a-12bd9e01c765)
 
-<b>3.</b> After allowing the program to edit your outlook calandar, wait until the page fails to load:
+<b>3.</b> After allowing the program to edit your outlook calandar, wait until the page redirects to a localhost address:
 - ![code_needed](https://github.com/user-attachments/assets/34fc3d73-3a7c-4615-a930-afa50cff104c)
 
 <b>4.</b> Copy the following link:
