@@ -14,9 +14,6 @@ View Instructions for proper setup: [Here](Instructions.md)
 - New Appointment (2)
 ![LinamarNewAppointment2](https://github.com/user-attachments/assets/8f2ec8be-e911-4b80-986d-e8845ba4d2e7)
 
-- New Appointment (2)
-![LinamarNewAppointment2](https://github.com/user-attachments/assets/8f2ec8be-e911-4b80-986d-e8845ba4d2e7)
-
 - Generate Report (1)
 ![LinamarGenReport](https://github.com/user-attachments/assets/c81c7e37-f53b-4ba5-a49c-236cbb203b89)
 
