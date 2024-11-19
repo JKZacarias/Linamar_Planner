@@ -16,4 +16,4 @@
 ![input_code](https://github.com/user-attachments/assets/030fa00d-67c8-47de-af29-6158d5d1153a)
 
 
-After pressing 'Confirm', setup will be completed.
+After pressing 'Confirm', setup will be complete.
